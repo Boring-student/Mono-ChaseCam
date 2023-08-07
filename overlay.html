@@ -30,11 +30,53 @@
             <span style="padding:0px;margin:0px;">:</span>
             <span style="padding:0px;margin:0px;" id="min">00</span>
             <span style="padding:0px;margin:0px;">:</span>
-            <span style="padding:0px;margin:0px;" id="sec">00</span>
-            <span style="padding:0px;margin:0px;" id="tz">XX</span>&nbsp;&nbsp;
+            <span style="padding:0px;margin:0px;" id="sec">00</span>&nbsp;&nbsp;
         </div>
     </div>
   </nav>
 </body>
+<script>
 
+var d,h,m,s,animate;
+        const monthNames = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+
+        function init(){
+            d=new Date();
+            clock();
+        };
+
+        function clock(){
+            d=new Date();
+            updateTime();
+            updateDate();
+            $('sec', s);
+            $('min', m);
+            $('hr', h);
+            $('day', day);
+            $('year', year);
+            $('month', monthNames[month]);
+            animate=setTimeout(clock,100);
+        };
+        
+        function updateDate(){
+            day=d.getDate();
+            month=d.getMonth();
+            year=d.getFullYear();
+        };
+        
+        function updateTime(){
+            h=d.getHours();
+            m=d.getMinutes();
+            s=d.getSeconds();
+        };
+
+        function $(id,val){
+            if(val<10){
+                val='0'+val;
+            }
+            document.getElementById(id).innerHTML=val;
+        };
+
+        window.onload=init;
+</script>
 </html>

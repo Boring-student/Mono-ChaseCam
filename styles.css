@@ -22,8 +22,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px;
-    background-color: #3d3d3d56;
+    padding: 10px;
+    background-color: #00000060;
     color: #fff;
   }
   
@@ -33,6 +33,6 @@
   
   /* LOGO */
   .logo {
-    font-size: 32px;
+    font-size: 18px;
   }
   

@@ -16,8 +16,7 @@ inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Boring-student/Mono-ChaseCam/assets/74827801/1c271f68-a669-4c0a-9540-b476aa6815c5">
-
+  <img src="https://github.com/Boring-student/Mono-ChaseCam/assets/74827801/f8850470-d67a-4aac-8167-86c1d795f538">
 </p>
 
 
@@ -36,8 +35,10 @@ inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
   Version and changelog
 </h3>
 
-V.2.0 Merge CSS to HTML.
+V2.1 Update Text and Time/Date format.
 
-V.1.1 Fix overlap logo with text.
+V2.0 Merge CSS to HTML.
 
-~~V.1.0 initial release.~~ (Removed)
+V1.1 Fix overlap logo with text.
+
+~~V1.0 initial release.~~ (Removed)

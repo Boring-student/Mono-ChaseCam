@@ -7,7 +7,7 @@
 
 </p>
 
-This is a free-to-use HTML/javascript based overlay for roleplay streamers. Basically it mimics the overlay of the MOTOROLA VB400 bodycam.
+This is a free-to-use HTML/javascript based overlay for roleplay streamers and overall general usage. Basically it mimics the overlay of the MOTOROLA VB400 bodycam.
 
 inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
 

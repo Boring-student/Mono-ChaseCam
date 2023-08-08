@@ -69,9 +69,11 @@
       </div>
     
     <div class="top-right-container">
-        <div class="top-right">           
+        <div class="top-right">
+            <span style="padding:0px;margin:0px;" id="month">00</span>
+            <span style="padding:0px;margin:0px;">/</span>     
             <span style="padding:0px;margin:0.px;" id="day">00</span>
-            <span style="padding:0px;margin:0px;" id="month">XXX</span>
+            <span style="padding:0px;margin:0px;">/</span>
             <span style="padding:0px;margin:0px;" id="year">0000</span>&nbsp;
             <span style="padding:0px;margin:0px;" id="hr">00</span>
             <span style="padding:0px;margin:0px;">:</span>
@@ -86,7 +88,7 @@
     <script>
 
         var d,h,m,s,animate;
-        const monthNames = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+        const monthNames = ["1","2","3","4","5","6","7","8","9","10","11","12"];
 
         function init(){
             d=new Date();

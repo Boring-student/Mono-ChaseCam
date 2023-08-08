@@ -22,3 +22,11 @@ inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
 3) load into OBS (or other software) as a "BROWSER SOURCE" the file with the .html extension
 
 5) activate the layer and profit!
+
+<h3>
+  Version and changelog
+</h3>
+
+V.2.0 Merge CSS to HTML.
+V.1.1 Fix overlap logo with text.
+~~V.1.0 initial release.~~ (Removed)

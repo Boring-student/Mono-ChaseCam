@@ -11,6 +11,15 @@ This is a free-to-use HTML/javascript based overlay for roleplay streamers. Basi
 
 inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
 
+<h2 align="center">
+         Screenshot:
+</h2>
+
+<p align="center">
+  <img src="https://github.com/Boring-student/Mono-ChaseCam/assets/74827801/1c271f68-a669-4c0a-9540-b476aa6815c5">
+
+</p>
+
 
 <h2 align="center">  
         How to use:
@@ -28,5 +37,7 @@ inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
 </h3>
 
 V.2.0 Merge CSS to HTML.
+
 V.1.1 Fix overlap logo with text.
+
 ~~V.1.0 initial release.~~ (Removed)

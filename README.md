@@ -35,9 +35,7 @@ inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
   Version and changelog
 </h3>
 
-V2.2 Update font.  
-
-V2.1 Update Text and Time/Date format.
+V2.1 Update font, Text and Time/Date format.
 
 V2.0 Merge CSS to HTML.
 

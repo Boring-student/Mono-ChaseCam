@@ -16,7 +16,7 @@ inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Boring-student/Mono-ChaseCam/assets/74827801/f8850470-d67a-4aac-8167-86c1d795f538">
+  <img src="https://github.com/Boring-student/Mono-ChaseCam/assets/74827801/2066bbaa-1eb6-4cec-99b2-f6bba79d1333">
 </p>
 
 

@@ -23,13 +23,14 @@ inspired from [XION-ChaseCam](https://github.com/zhivotnoya/XION-ChaseCam)
 <h2 align="center">  
         How to use:
 </h2>
-1) create a directory for the script to reside
 
-2) put files (including this one) into that directory
+1. create a directory for the script to reside
 
-3) load into OBS (or other software) as a "BROWSER SOURCE" the file with the .html extension
+2. put files (including this one) into that directory
 
-5) activate the layer and profit!
+3. load into OBS (or other software) as a "BROWSER SOURCE" the file with the .html extension
+
+4. activate the layer and profit!
 
 <h3>
   Version and changelog
